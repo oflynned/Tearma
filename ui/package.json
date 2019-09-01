@@ -1,5 +1,5 @@
 {
-  "name": "syzible-react",
+  "name": "tearma-react",
   "version": "1.0.0",
   "proxy": "http://localhost:3001",
   "private": true,
